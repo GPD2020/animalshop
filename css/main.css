@@ -22,7 +22,7 @@ body {
     background-color: #e3eaa7;
 }
 
-.navbar {    background-color: #e3eaa7;}
+.navbar-inverse {    background-color: #e3eaa7;}
 
 .dropdown {
     cursor:pointer;
