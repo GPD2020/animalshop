@@ -22,6 +22,8 @@ body {
     background-color: #e3eaa7;
 }
 
+.nav {    background-color: #e3eaa7;}
+
 .dropdown {
     cursor:pointer;
 }
