@@ -18,7 +18,9 @@ body {
     background-color: #e3eaa7;
 }
 
-
+.navbar-default {
+    background-color: #e3eaa7;
+}
 
 .dropdown {
     cursor:pointer;
