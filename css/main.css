@@ -114,7 +114,9 @@ body {
     font-size: 8em;
 }
 
-
+header {
+    background-color: #e3eaa8;
+}
 
 
 /* Footer Styles */
